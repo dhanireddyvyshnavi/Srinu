@@ -2,3 +2,9 @@ def Add(a,b):
     print(a+b)
 Add(10,20)
 print('Add ok')
+
+
+def Sub(a,b):
+    print(a-b)
+Add(30,20)
+print('Sub ok')
